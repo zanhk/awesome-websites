@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	<b>Best websites I dound on the internet.</b>
+	<b>Best websites I found on the internet.</b>
 </div>
 
 <br>
