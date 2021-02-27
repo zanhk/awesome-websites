@@ -10,6 +10,6 @@
 
 ## Contents
 
-- [Open SOurce](#open-source)
+- [Open Source](#open-source)
 - [Purchasable](#purchasable)
 - [Inspirational](#open-source)
